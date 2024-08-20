@@ -1,6 +1,4 @@
-# Airline-Reservation
-
-# Airline Reservation System
+# Airline Reservation System C++
 
 ## Overview
 
